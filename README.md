@@ -1,2 +1,2 @@
-# sBlog
-基于springboot的博客，简单的入门
+# someBlog
+前后端分离，springboot+vue.js 权限认证，shiro+jwt+redis
